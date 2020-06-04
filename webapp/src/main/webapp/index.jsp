@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h2> Bye Chris Masikati </h2>
-<h2> Today's Date is 03/06/2020 @16:00 </h2>
+<h2> Today's Date is 04/06/2020 @01:12 </h2>
